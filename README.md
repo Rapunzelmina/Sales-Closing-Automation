@@ -16,11 +16,11 @@ O processo era realizado manualmente, envolvendo:
 - consolidação das informações;
 - atualização dos arquivos utilizados no fechamento.
 
-Esse processo podia consumir grande parte do dia de trabalho.
+Esse processo consumia um dia inteiro de trabalho.
 
 ## Solução
 
-Foi desenvolvida uma automação integrada ao ERP utilizado pela empresa para:
+Desenvolvi uma automação integrada ao ERP utilizado pela empresa para:
 
 - acessar o sistema;
 - extrair os relatórios necessários;
@@ -40,7 +40,7 @@ Foi desenvolvida uma automação integrada ao ERP utilizado pela empresa para:
 
 ## Resultados
 
-O processo, que anteriormente podia consumir até um dia de trabalho, passou a ser executado automaticamente em aproximadamente 5 minutos.
+O processo, que anteriormente consumia um dia de trabalho, passou a ser executado automaticamente em aproximadamente 5 minutos.
 
 Após a implementação inicial, também foram realizados ajustes para melhorar a confiabilidade da execução, tratar falhas e adaptar a automação a novos cenários.
 
