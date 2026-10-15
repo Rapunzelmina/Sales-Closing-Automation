@@ -16,7 +16,7 @@ O processo era realizado manualmente, envolvendo:
 - consolidação das informações;
 - atualização dos arquivos utilizados no fechamento.
 
-Esse processo consumia uma semana de trabalho.
+Cada ciclo desse processo consumia quase um dia de trabalho, e um mês tem até cinco ciclos.
 
 ## Solução
 
@@ -40,7 +40,7 @@ Desenvolvi uma automação integrada ao ERP utilizado pela empresa para:
 
 ## Resultados
 
-O processo, que anteriormente consumia uma semana de trabalho, passou a ser executado automaticamente em aproximadamente 5 minutos.
+O que antes consumia quase um dia de trabalho por ciclo (cerca de uma semana por mês) passou a ser executado automaticamente em até 5 minutos por ciclo.
 
 Após a implementação inicial, também foram realizados ajustes para melhorar a confiabilidade da execução, tratar falhas e adaptar a automação a novos cenários.
 
